@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ SAINI DRM Bot ✨
+  ✨ 𝗣𝗔𝗥𝗔𝗖𝗘𝗧𝗔𝗠𝗢𝗟 ✨
 </h1>
 
 <p align="center">
